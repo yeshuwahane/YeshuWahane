@@ -1,19 +1,14 @@
 ### Hi there 👋
 I am Yeshu Wahane 
 <p align="left">
-  <a href="https://scrapbook.hackclub.com/yeshuwahane">ScrapBook</a> •
-  <a href="yeshuwahane@gmail.com">Gmail</a> •
-  <a href="https://www.instagram.com/yeshuwahane/">Instagram</a>
+  <a href="https://yeshuwahane.github.io">Portfolio</a> •
+  <a href="mailto:yeshuwahane@gmail.com?subject=Hey!">Gmail</a> •
+  <a href="https://www.linkedin.com/in/yeshu-wahane-5b1574137/">Linkedin</a>
 </p>
 
- ** 🔭 ** I’m currently working on Unity Game Engine and Python 
+ ** 🔭 ** I’m currently working and learning on  Android kotlin and Python 
  </p>
  
- ** 🌱 ** I’m currently learning Machine learning and Augmented reality 
- </p>
- 
- ** :sweat_smile: ** I wanna Learn many things
-  </p>
    
  ** ⚡ ** Fun fact: I'm Alien 👽, I am from outer space 🛸
 </p>
